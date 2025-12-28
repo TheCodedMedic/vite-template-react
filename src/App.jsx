@@ -45,7 +45,7 @@ const App = () => {
       borderRadius: '12px',
       border: '2px solid #ccc'
       }}>
-      <h3>This box changes with mode!</h3>
+      <h3>This box background color and font color changes with mode!</h3>
       <p>Current mode: {mode}</p>
       </div>
     </div>
